@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Hyeonjeong Shim, and I'm majoring in software at Gachon University.
+### My name is Hyeonjeong Shim, and I'm majoring in software at Gachon University.
 
 <!--
 **gangmaru/gangmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
