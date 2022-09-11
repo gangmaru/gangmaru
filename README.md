@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 ### My name is Hyeonjeong Shim, and I'm majoring in software at Gachon University.
 
 <!--
